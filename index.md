@@ -96,7 +96,7 @@
   - 政大新聞系畢
 - 林易瑩
   - [linkedin](https://www.linkedin.com/in/yiyinglin/)
-  - 政大新聞系畢
+  - 政大新聞系畢
 - 林佑恩
   - 《報導者》攝影記者
 - 黃禹禛
