@@ -7,7 +7,9 @@
 
 ### 3/15 基礎新聞網頁設計
   - 設計流程與設計工具
-  - 新聞網頁要素設計(大標、副標、前言、影像、小標、內文、抽言 ...等等)
+    流程：wireframe >> mockup >> elements
+    工具：Photoshop/Zeplin/InVision
+  - 新聞網頁要素設計(大標、副標、前言、影像、小標、內文、抽言 ...等等)
   - 網頁要素設計（header、navigation、hamburger menu、footer、logo ...等等)
   
 ### 3/22 基礎網頁製作
@@ -28,8 +30,10 @@
   - 進階新聞網頁元素設計（聲音、影片、slideshow ...等等）
   - 長文設計
   - 圖表設計及製作
+    使用工具：Illustrator
   - 響應式網頁設計（Responsive Web Design）
-  
+    使用工具：Photoshop
+
 ### 4/19 響應式網頁製作
   - 瀏覽器 Chrome devtools 使用說明
   - 網頁元素如何對齊？
